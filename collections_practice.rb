@@ -43,5 +43,4 @@ def add_s(array)
     elsif element == array[1]
       element
     end
-  end 
-  
+  end
