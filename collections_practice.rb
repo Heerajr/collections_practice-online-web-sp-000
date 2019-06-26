@@ -40,3 +40,5 @@ def add_s(array)
   if index == 0 && 2 && 3
   array.collect{|x| x+"s"}
 end
+  array.collect{|x| x+"s"}
+  end
