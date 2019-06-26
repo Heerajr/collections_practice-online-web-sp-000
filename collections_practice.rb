@@ -44,3 +44,4 @@ def add_s(array)
       element
     end
   end
+end
